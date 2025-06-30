@@ -8,7 +8,7 @@
 
 ## 📌 Features
 
-- 🧠 Practice technical and behavioral interview questions
+- 🧠 Practice technical interview questions
 - 🎯 Organized by topic and difficulty
 - ✨ Built with simplicity, usability, and speed in mind
 - 💻 Easy to deploy and run locally or on Streamlit Cloud
